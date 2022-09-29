@@ -28,4 +28,21 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 -Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
 
 ## Screenshorts:
+# Home:
+![x1](https://user-images.githubusercontent.com/113504353/192920891-dca1b01b-e8d3-495c-9da9-e72e7ae3cf4c.png)
+# information :
+![x2](https://user-images.githubusercontent.com/113504353/192920991-1873688d-30cb-49a7-b584-b76010ce79ca.png)
+# About us
+![x3](https://user-images.githubusercontent.com/113504353/192921059-7f76ef46-543c-4c01-8b9b-d588a82f84ce.png)
+# Our vision:
+![x4](https://user-images.githubusercontent.com/113504353/192921127-0074cac7-5ab2-4be0-87e2-e8c4f1a654f7.png)
+ # Chart Boot
+ ![x5](https://user-images.githubusercontent.com/113504353/192921284-8e9d1ced-cc7e-4e01-8e1d-bd0d9fb7a42b.png)
+
+
+
+
+
+
+
 
