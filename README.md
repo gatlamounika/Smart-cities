@@ -1,5 +1,4 @@
-## Smart-cities
-# Smart cities-Chatbot :
+# Smart cities :
 This is a Informational bot application developoed for education related to give information about Smart-cities.
 
 ### This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skill prime, Quess, GitHub,EY.
